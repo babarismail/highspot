@@ -1,0 +1,39 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "name": "Albin Jaye"
+        }
+    ],
+    "playlists": [
+        {
+            "id": "1",
+            "user_id": "2",
+            "song_ids": [
+                "8",
+                "32"
+            ]
+        },
+        {
+            "id": "2",
+            "user_id": "3",
+            "song_ids": [
+                "6",
+                "8",
+                "11"
+            ]
+        }
+    ],
+    "songs": [
+        {
+            "id": "1",
+            "artist": "Camila Cabello",
+            "title": "Never Be the Same"
+        },
+        {
+            "id": "40",
+            "artist": "Imagine Dragons",
+            "title": "Thunder"
+        }
+    ]
+}
